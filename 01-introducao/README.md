@@ -8,7 +8,7 @@ A pesquisa para este desafio permitiu uma compreensão aprofundada de como as ne
 
 Abaixo, apresento a linha do tempo visual que ilustra os principais marcos e o surgimento de linguagens notáveis, criada no Canva:
 
-![Linha do Tempo das Linguagens de Programação](Linhagem_do_Tempo-Linguagens_da_Programa%C3%A7%C3%A3o.png)
+![Linha do Tempo das Linguagens de Programação](Linhagem_do_Tempo-Linguagens_da_Programacao.png)
 ## Conclusão
 
 A evolução das linguagens de programação é um reflexo direto das demandas crescentes da computação e da busca por maior produtividade, segurança e eficiência. Cada nova linguagem ou paradigma trouxe consigo inovações que simplificaram tarefas complexas, aumentaram a capacidade de construir sistemas robustos e expandiram as possibilidades do que pode ser alcançado com software. Entender essa trajetória é crucial para compreender os fundamentos e as tendências atuais que continuam a moldar o futuro da programação.
