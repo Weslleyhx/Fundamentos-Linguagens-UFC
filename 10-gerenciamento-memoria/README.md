@@ -9,6 +9,7 @@ O gerenciamento de memória é o processo de controlar e coordenar a memória de
 ## Quadro Comparativo: Gerenciamento de Memória em Java vs. C++
 
 Para ilustrar as diferentes abordagens, o quadro abaixo compara o gerenciamento de memória nas linguagens Java (com foco em seu Garbage Collector) e C++ (com gerenciamento manual e o auxílio de Smart Pointers no C++ moderno).
+
 ![Gerenciamento de Memória - Parte 1](Comparativo_desafio10_pt1.png)
 ![Gerenciamento de Memória - Parte 1](Comparativo_desafio10_pt2.png)
 
