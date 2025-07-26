@@ -7,7 +7,7 @@ Este repositório é uma coleção de desafios práticos e conceituais projetado
 
 ## Desafios Concluídos:
 
-Abaixo, você encontrará a lista de todos os desafios concluídos, com um breve resumo e um link direto para a pasta e o `README.md` de cada um para mais detalhes.
+Abaixo, será encontrado a lista de todos os desafios concluídos, com um breve resumo e um link direto para a pasta e o `README.md` de cada um para mais detalhes.
 
 1.  ### [**Desafio 01: Introdução**](01-introducao/README.md)
     * **Foco:** Conceitos iniciais e fundamentos básicos da programação.
